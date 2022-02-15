@@ -2,8 +2,7 @@
 I'm KooriMoe, a developer from Shanghai, PRC.
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KooriMoe
-" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KooriMoe" width="350"></a>
 </p>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KooriMoe&layout=compact"/>
