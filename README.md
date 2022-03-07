@@ -36,4 +36,4 @@ I'm KooriMoe, a developer from Shanghai, PRC.
 </p>
 
 ## 📮 How to reach me
-- Email: [icemoe@sakurark.com](mailto:icemoe@sakurark.com)
+- Email: [dev@zihan.moe](mailto:dev@zihan.moe)
