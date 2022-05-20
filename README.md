@@ -10,7 +10,7 @@ I'm KooriMoe, a developer from Shanghai, PRC.
 
 ## Tools & Frameworks & Languages
 <p align='center'>
-    <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white">
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
     <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
     <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black">
@@ -36,4 +36,4 @@ I'm KooriMoe, a developer from Shanghai, PRC.
 </p>
 
 ## 📮 How to reach me
-- Email: [dev@zihan.moe](mailto:dev@zihan.moe)
+- Email: [talk@icm.moe](mailto:talk@icm.moe)
