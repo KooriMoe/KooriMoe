@@ -36,4 +36,5 @@ I'm KooriMoe, a developer from Shanghai, PRC.
 </p>
 
 ## 📮 How to reach me
-- Email: [talk@icm.moe](mailto:talk@icm.moe)
+- Email: [i@koori.dev](mailto:i@koori.dev)   
+- Telegram: [@KooriMoe](https://t.me/KooriMoe)
