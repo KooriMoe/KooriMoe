@@ -1,5 +1,5 @@
 # Hi there 🙋
-I'm KooriMoe, a developer from Shanghai, PRC.
+I'm 桜さくら (KooriMoe), an IBDP M24 student from Shanghai, China mainland.
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=KooriMoe" width="350"></a>
@@ -11,20 +11,11 @@ I'm KooriMoe, a developer from Shanghai, PRC.
 ## Tools & Frameworks & Languages
 <p align='center'>
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-    <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
     <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
 </p>
 
@@ -36,5 +27,4 @@ I'm KooriMoe, a developer from Shanghai, PRC.
 </p>
 
 ## 📮 How to reach me
-- Email: [i@koori.dev](mailto:i@koori.dev)   
-- Telegram: [@KooriMoe](https://t.me/KooriMoe)
+- Email: [i@koori.dev](mailto:i@koori.dev)
