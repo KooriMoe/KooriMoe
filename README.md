@@ -2,7 +2,7 @@
 
 * CIS Undergrad @ Ohio State
 * Currently working on my own project
-* Open to Work for Internship in Summer 2026
+* Open to Work for an internship in Autumn 2026
 
 ### 📫 How to Reach Me
 ```
