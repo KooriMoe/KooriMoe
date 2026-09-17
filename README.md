@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 * CIS Undergrad @ Ohio State
-* Currently working on my own project
-* Open to Work for an internship in Autumn 2026
+* Currently working on [Buckeye Laundry](https://laundry.jaclyn.io)
+* Open to Work for an internship in Summer 2027
 
 ### 📫 How to Reach Me
 ```
